@@ -8,7 +8,7 @@ My personal guide for setting up a developer environment on macOS.
 
 Open terminal, run `xcode-select --install`.
 
-## SSH setup
+## SSH setup
 
 Create an SSH key using
 
