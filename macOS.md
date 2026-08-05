@@ -100,3 +100,4 @@ VSCode is the go-to. We could try something new too, like [Zed](zed.dev).
   - Go setup.
   - Better vim setup.
   - Better iTerm setup, especially colours.
+  - Claude Code.
